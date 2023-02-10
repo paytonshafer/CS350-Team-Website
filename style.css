@@ -87,4 +87,5 @@ h3 {
 .members{
     display: block;
     list-style-type: none;
+    padding-right: 5%;
 }
