@@ -157,3 +157,7 @@ table {
 a {
   text-decoration: none;
 }
+
+.reports{
+  list-style: none;
+}
